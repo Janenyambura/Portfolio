@@ -13,6 +13,7 @@
 .contactPageTitle{
     font-size: 3rem;
     margin-bottom: 1rem;
+    border-top: 2px outset rgb(0, 225, 255);
 }
 
 .clientDesc {

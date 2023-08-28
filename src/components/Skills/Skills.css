@@ -15,6 +15,7 @@
     font-weight: 600;
     padding-top: 3rem;
     margin-bottom: 1.5rem;
+    border-bottom: 4px outset rgb(0, 225, 255);
 }
 
 .skillDesc {
@@ -22,7 +23,7 @@
     font-size: 1rem;
     max-width: 51rem;
     padding: 0 2rem;
-}
+} 
 
 .skillBars {
     margin:1.5rem;
